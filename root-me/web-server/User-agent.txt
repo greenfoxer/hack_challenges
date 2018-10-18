@@ -1,0 +1,2 @@
+1. Видим ошибку Wrong user-agent: you are not the "admin" browser! значит User-Agent должен быть admin.
+2. Перехватите расширением, или прокси, кторыми вы пользуетесь, запрос и замените User-Agent на admin.

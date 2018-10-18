@@ -1,0 +1,2 @@
+1. На самом деле, все сказано в названии задания. CR(%0d) LF(%0a)
+2. Нагрузка: ch14/?username=admin+authenticated.%0D%0Aguest&password=
