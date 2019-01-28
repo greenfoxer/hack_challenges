@@ -1,1 +1,1 @@
-Hacking Challenges from different site.
+Hacking Challenges from different sites.
